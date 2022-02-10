@@ -1,0 +1,21 @@
+
+site_name: Oráculo
+pages:
+  - Home: 'index.md'
+  - Metodologia: 'metodologia.md'
+  - Backlog do Projeto: 'backlog.md'
+  - Roadmap: 'roadmap.md'
+  - Identidade Visual: 'identidade.md'
+  - Protótipo: 'prototipo.md'
+  - Documento de Visão: 'visao.md'
+  - Documento de Arquitetura: 'arquitetura.md'
+  - Gerenciamento de Riscos: 'riscos.md'
+  - EVM: 'evm.md'
+  - Equipe: 'equipe.md'
+  - Apresentações: 'apresentacoes.md'
+theme:
+  name: material
+  language: pt
+
+repo_name: 'Repositório'
+repo_url: 'https://github.com/fga-eps-mds/2021-2-Oraculo-Doc'
