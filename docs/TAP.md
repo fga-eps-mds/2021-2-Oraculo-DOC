@@ -4,6 +4,7 @@
 |--|--|--|--|
 |24/02/2022|0.1|Criação da estrutura inicial do documento|Caio César Beleza|
 |24/02/2022|0.2|Adição do tópico de introdução ao documento|Caio César Beleza|
+|24/02/2022|0.3|Adição dos tópicos de justificativa e objetivos do projeto |Caio César Beleza|
 
 
 ### Sumário
@@ -18,7 +19,11 @@ O projeto Oráculo foi iniciado no 1º semestre de 2021, através das disciplina
 
 ### 3. Objetivos do Projeto
 
+O principal objetivo do projeto é fornecer uma forma de auxiliar os policiais a gerenciar os processos e ter uma rastreabilidade maior desses processos de forma mais rápida e eficiente.  
+
+
 ### 4. Requisitos de Alto Nível
+
 
 
 ### 5. Restrições
