@@ -7,6 +7,7 @@
 |08/03/2022|1.0| Criação do template do documento de políticas|[Caio César Beleza](github.com/Caiocbeleza)|
 |08/03/2022|1.1| Adição do tópico de introdução | [Caio César Beleza](github.com/Caiocbeleza)|
 |08/03/2022|1.2| Adição do tópico da política de commits | [Caio César Beleza](github.com/Caiocbeleza)|
+|08/03/2022|1.3| Adição do tópico de monitoramento | [Caio César Beleza](github.com/Caiocbeleza)|
 
 
 
@@ -40,5 +41,7 @@ Além disso, se forem feitas alterações com mais de um autor, o commit deve ev
 
 
 ### 5. Monitoramento
+
+O monitoramento dos repositórios é feito pela equipe de gerenciamento do projeto(EPS), que é responsável também por orientar e ajudar os demais membros da equipe quanto ao cumprimento dos padrões estabelecidos. Dessa forma, é reservado à equipe de gerenciamento o poder de vetar e/ou excluir o que não estiver dentro das especificações.  
 
 ### 6. Referências
