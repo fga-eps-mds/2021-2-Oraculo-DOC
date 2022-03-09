@@ -9,6 +9,7 @@
 |08/03/2022|1.2| Adição do tópico da política de commits | [Caio César Beleza](github.com/Caiocbeleza)|
 |08/03/2022|1.3| Adição do tópico de monitoramento | [Caio César Beleza](github.com/Caiocbeleza)|
 |08/03/2022|1.4| Adição do tópico da política do repositório de documentação | [Caio César Beleza](github.com/Caiocbeleza)|
+|09/03/2022|1.5| Adição do tópico da política de criação de branches | [Caio César Beleza](github.com/Caiocbeleza)|
 
 
 
@@ -23,6 +24,31 @@ Este tópico descreve as políticas relacionadas às contribuições aos reposit
 
 
 #### 2.1. Política de Branches
+
+Os repositórios de código têm duas branches principais. A branch Master é onde estará sempre mantida a versão estável do projeto, não são permitidos commits diretamente nela. A master só será atualizada a partir da branch Develop, quando esta estiver em uma versão estável.
+
+A branch develop será a mais atualizada, ao final de cada sprint. Ela reunirá os resultados das atividades feitas a cada sprint.
+
+
+##### 2.1.1. Criação de Branches
+
+Para cada funcionalidade e/ou correções de erro, deverá ser criada uma branch, que deve evidenciar aquela atividade. Para tal, devem ser seguidos os seguintes direcionamentos:
+
+- O padrão para uma branch criada para uma tarefa contida no Roadmap do projeto é:
+
+  - <mark> TF[ID da tarefa no Roadmap]-[Nome da Tarefa] </mark>
+
+
+- O padrão para uma branch criada a para uma correção é:
+
+  - <mark> FIX[Nome da correção] </mark>
+
+
+- O padrão para uma branch criada a para uma issue é:
+
+  - <mark> ISSUE[ID da issue]-[Nome da issue] </mark>
+
+
 
 #### 2.2. Política de Commits
 
