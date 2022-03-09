@@ -10,6 +10,7 @@
 |08/03/2022|1.3| Adição do tópico de monitoramento | [Caio César Beleza](github.com/Caiocbeleza)|
 |08/03/2022|1.4| Adição do tópico da política do repositório de documentação | [Caio César Beleza](github.com/Caiocbeleza)|
 |09/03/2022|1.5| Adição do tópico da política de criação de branches | [Caio César Beleza](github.com/Caiocbeleza)|
+|09/03/2022|1.6| Adição do tópico da política de criação de issues | [Caio César Beleza](github.com/Caiocbeleza)|
 
 
 
@@ -66,9 +67,28 @@ Além disso, se forem feitas alterações com mais de um autor, o commit deve ev
 
 Os commits no repositório de documentação devem seguir o mesmo padrão dos commits dos repositórios de código. Entretanto, as documentações serão inseridas diretamente na branch Master, sem a necessidade de criação de outras branches.
 
-Além disso, os documentos devem conter, após o título, uma tabela com o histórico de revisões feitas nesse documento, contendo a data na qual foi realizada a revisão, a nova versão do documento, a descrição da revisão realizada e o nome de quem fez as alterações.
+Os documentos devem conter, após o título, uma tabela com o histórico de revisões feitas nesse documento, contendo a data na qual foi realizada a revisão, a nova versão do documento, a descrição da revisão realizada e o nome de quem fez as alterações.
+
+Além disso, ao final de todo documento deve ter um tópico de referências, onde serão evidenciadas as referências que foram consultadas para a confecção do documento
+
+
 
 ### 4. Issues
+
+As issues serão utilizadas para mapear as atividades do projeto, como histórias de usuários e correção de bugs, pela facilidade de monitoramento, já que podem ser integradas aos zenhub.
+
+As issues ativas serão identificadas por meio de labels para melhor entendimento dos membros do time, além de pessoas que possam ter interesse em contribuir com o projeto posteriormente.
+
+As labels que identificarão as issues são as seguintes:
+
+- Feature: Representa funcionalidades a serem implementadas no projeto.
+- UI/UX: Representa issues que incluem refatorações no visual e usabilidade da aplicação.
+- Bug: Representa issues relacionadas a correções que precisam ser feitas na aplicação.
+- Doc: Representa issues relacionadas à documentações do projeto.
+
+
+A criação de issues deve seguir o seguinte padrão:
+- <mark> [ISSUE]#[ID da tarefa no Roadmap]-[Nome da tarefa] </mark>
 
 
 ### 5. Monitoramento
@@ -76,3 +96,7 @@ Além disso, os documentos devem conter, após o título, uma tabela com o hist�
 O monitoramento dos repositórios é feito pela equipe de gerenciamento do projeto(EPS), que é responsável também por orientar e ajudar os demais membros da equipe quanto ao cumprimento dos padrões estabelecidos. Dessa forma, é reservado à equipe de gerenciamento o poder de vetar e/ou excluir o que não estiver dentro das especificações.  
 
 ### 6. Referências
+
+- Cafofo. Plano de Gestão e Configuração de Software. Disponível em: https://github.com/desenho-2019/Wiki/blob/master/docs/Din%C3%A2mica%20e%20Semin%C3%A1rio%20II/planoDeGCS.md. Acesso em: 09/03/2022.
+
+- QueroCultura. Plano de Gerenciamento de Configuração. Disponível em https://github.com/fga-eps-mds/2017.2-QueroCultura/wiki/Plano-de-Gerenciamento-de-Configura%C3%A7%C3%A3o. Acesso em: 09/03/2022.
