@@ -8,6 +8,7 @@
 |08/03/2022|1.1| Adição do tópico de introdução | [Caio César Beleza](github.com/Caiocbeleza)|
 |08/03/2022|1.2| Adição do tópico da política de commits | [Caio César Beleza](github.com/Caiocbeleza)|
 |08/03/2022|1.3| Adição do tópico de monitoramento | [Caio César Beleza](github.com/Caiocbeleza)|
+|08/03/2022|1.4| Adição do tópico da política do repositório de documentação | [Caio César Beleza](github.com/Caiocbeleza)|
 
 
 
@@ -36,6 +37,10 @@ Além disso, se forem feitas alterações com mais de um autor, o commit deve ev
 
 
 ### 3. Repositório de Documentação
+
+Os commits no repositório de documentação devem seguir o mesmo padrão dos commits dos repositórios de código. Entretanto, as documentações serão inseridas diretamente na branch Master, sem a necessidade de criação de outras branches.
+
+Além disso, os documentos devem conter, após o título, uma tabela com o histórico de revisões feitas nesse documento, contendo a data na qual foi realizada a revisão, a nova versão do documento, a descrição da revisão realizada e o nome de quem fez as alterações.
 
 ### 4. Issues
 
