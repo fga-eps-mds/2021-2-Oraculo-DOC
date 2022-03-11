@@ -81,14 +81,17 @@ As issues ativas serão identificadas por meio de labels para melhor entendiment
 
 As labels que identificarão as issues são as seguintes:
 
-- Feature: Representa funcionalidades a serem implementadas no projeto.
+- US: Representa as histórias de usuário.
 - UI/UX: Representa issues que incluem refatorações no visual e usabilidade da aplicação.
 - Bug: Representa issues relacionadas a correções que precisam ser feitas na aplicação.
 - Doc: Representa issues relacionadas à documentações do projeto.
 
 
 A criação de issues deve seguir o seguinte padrão:
-- <mark> [ISSUE]#[ID da tarefa no Roadmap]-[Nome da tarefa] </mark>
+- <mark> [Tipo da Atividade]-[Nome da tarefa] </mark>
+
+As histórias de usuário devem seguir o seguinte padrão:
+- <mark>[US][Número da história] - [Nome da história] </mark>
 
 
 ### 5. Monitoramento
