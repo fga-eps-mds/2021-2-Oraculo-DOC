@@ -2,6 +2,7 @@
 | ------ | ---------- | ------------------------------ | :----: | ----- |
 | 1.0    | 13/03/2022 | Criação do documento  | - | João Victor e Lucas Lopes |
 | 1.1    | 13/03/2022 | Adição dos tópicos identificação dos riscos e analise qualitativa dos riscos | - | João Victor e Lucas Lopes |
+| 1.2  | 13/03/2022 | Adição dos tópicos planejamento e monitoramento de riscos | - | João Victor e Lucas Lopes |
 
 # Introdução 
 
@@ -45,7 +46,7 @@ Os riscos seram identificados durante os ritos do Scrum, daily scrum, sprint pla
 | -------- | -------- | -------- | -------- |
 | Inexperiência do time |	RN1	| Dificuldades com a tecnologia de desenvolvimento | Baixa produtividade, atraso nas entregas e sobrecarga de outros membros. |
 | Falta de meios para a realização do trabalho | RN2 | Acessibilidade à internet | Atraso nas entregas ou sobrecarga de outros membros |
-|Escopo mal definido | RN3 | Mudança no escopo | Replanejamento das atividades e retrabalho |
+| Escopo mal definido | RN3 | Mudança no escopo | Replanejamento das atividades e retrabalho |
 | Impossibilidade realizar determinada atividade | RN4 | Doença ou incapacidade física/mental de algum dos membros da equipe  | Mudança no Planejamento |
 | Divergência de horários entre os membros | RN5 | Membro do time não puder participar das reuniões com os P.O's ou reuniões oficiais do time | Falta de entendimento do membro do time acerca da situação do projeto |
 | Desistência de membros da equipe | RN6 | Membro do time desistir do projeto durante o desenvolvimento | Atraso nas entregas, sobrecarga de outros membros e impacto no escopo do projeto |
@@ -89,6 +90,27 @@ O tamanho do impacto varia de acordo com o risco no projeto.
 | Muita Alta | Impossibilita a realização do projeto. | 5 |
 
 
+### Riscos Negativos
+
+| Risco | Probabilidade | Impacto |	Prioridade |
+| -------- | -------- | -------- | -------- |
+| RN1 | Moderada | Alto | Alta |
+| RN2 | Baixa | Alto | Baixa |
+| RN3 | Moderada | Alto | Alta |
+| RN4 | Moderada | Alto | Moderada |
+| RN5 | Moderada | Moderada | Alta | 
+| RN6 | Moderada | Alto | Alta | 
+| RN7 | Baixa | Moderada | Alta | 
+
+### Riscos Positivos
+
+| Risco | Probabilidade | Impacto |	Prioridade |
+| -------- | -------- | -------- | -------- |
+| RP1 | Moderada | Moderado | Baixa |
+| RP2 | Baixa | Alto | Moderada |
+| RP3 | Baixa | Moderada | Baixa |
+
+
 
 
 <div id='planejamento'/>  
@@ -103,9 +125,11 @@ O tamanho do impacto varia de acordo com o risco no projeto.
 | RN4 | Transferir | Quando ocorrer será feita a tranferência do impacto do risco para outro membro do time |
 | RN5 | Mitigar | Para diminuir o impacto podem ser feitas gravações de reuniões e formulários para validação assincrona |
 | RN6 | Transferir | Quando ocorrer será feita a tranferência do impacto do risco para outro membro do time |
-| RP1 |  | Continuidade do projeto |
-| RP2 |  | Segurança para o cliente |
-| RP3 |  | Qualidade do projeto pode aumentar |
+| RN7 | Mitigar | Utilizar ferramentas de testes automatizados para verificar a qualidade do código |
+| RP1 | Melhoria | Incentiva os membros da equipe contiuamente |
+| RP2 | Melhoria | Utilizar  a metodologia ágil, que através dessa, será feito o acompanhamento constante da produtividade da equipe |
+| RP3 | Exploração  | Se caso o risco aparecer, ele será aproveitado |
+
 
 
 
@@ -113,11 +137,33 @@ O tamanho do impacto varia de acordo com o risco no projeto.
 
 ## Implementando respostas de risco
 
+A equipe estará monitorando os riscos apresentados durante os eventos SCRUM. Se caso algum deles ou outro inesperado ocorra, será implementada a resposta ao risco.
+
+
 <div id='monitoramento'/>  
 
 ## Monitoramento de Riscos
 
 
+| Risco | Monitoramento 
+| -------- | -------- |
+| RN1 | Através do pareamento e das reuniões diárias |
+| RN2 | Através das reuniões diárias e canais de comunicação da equipe  |
+| RN3 | Atráves das reuniões com os clientes e pelo roadmap |
+| RN4 | Através das reuniões diárias e canais de comunicação da equipe |
+| RN5 | Através dos canais de comunicação da equipe |
+| RN6 | Através das reuniões diárias e canais de comunicação da equipe |
+| RN7 | Atráves do sonarcloud e dos testes automatizados |
+| RP1 | Através das reuniões diárias e canais de comunicação da equipe |
+| RP2 | Através da metodologia ágil, terá acompanhamento constante da produtividade da equipe |
+| RP3 | Através do cronograma do projeto |
 
+
+
+# Referências
+
+EUAX. Gerenciamento de Riscos em Projetos: aprenda a lidar com as incertezas na gestão de iniciativas. Disponível em: https://www.euax.com.br/2018/02/importancia-do-gerenciamento-de-riscos/. Acesso em: 13 mar. 2022.
+
+REDHAT. Gerenciamento de riscos. Disponível em: https://www.redhat.com/pt-br/topics/management/what-is-risk-management#:~:text=As%20estrat%C3%A9gias%20de%20gerenciamento%20de,as%20vulnerabilidades%20e%20mitigar%20riscos.. Acesso em: 13 mar. 2022.
 
 
