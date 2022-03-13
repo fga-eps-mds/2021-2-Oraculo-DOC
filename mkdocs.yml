@@ -14,6 +14,8 @@ pages:
       - Plano de comunicação: "comunicacao.md"
       - Quadro de conhecimentos: "conhecimentos.md"
       - Quadro de horários: "horarios.md"
+  - Gerenciamento de Qualidade:
+      - Plano de Qualidade: "PlanoQualidade.md"
   - Sprints:
       - Sprint 1: "sprint1.md"
   - EVM: 'evm.md'
