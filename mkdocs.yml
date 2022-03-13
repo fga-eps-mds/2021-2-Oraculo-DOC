@@ -15,7 +15,7 @@ pages:
       - Quadro de conhecimentos: "conhecimentos.md"
       - Quadro de horários: "horarios.md"
   - Sprints:
-      - Sprint 1:'sprint1.md'
+      - Sprint 1: "sprint1.md"
   - EVM: 'evm.md'
   - Equipe: 'equipe.md'
   - Apresentações: 'apresentacoes.md'
