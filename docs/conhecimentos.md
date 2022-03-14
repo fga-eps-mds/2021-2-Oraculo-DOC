@@ -11,3 +11,9 @@ O quadro de conhecimentos visa mostar e mapear à o nível de conhecimento de ca
 # Sprint 1
 
 ![image](https://user-images.githubusercontent.com/38164895/158082220-0ce108bb-af22-4545-a737-ad24e62c9df4.png)
+
+# Quadro de Pareamento
+
+[Link para acesso ao documento](https://docs.google.com/spreadsheets/d/1PA2HcYp0jlI_jYePfrsvfhY9iLr87NvhjUsnCRUBjnM/edit?usp=sharing)
+
+ <iframe height="400px" width="700px" src="https://docs.google.com/spreadsheets/d/1PA2HcYp0jlI_jYePfrsvfhY9iLr87NvhjUsnCRUBjnM/edit?usp=sharing"></iframe>
