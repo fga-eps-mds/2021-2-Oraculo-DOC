@@ -16,6 +16,7 @@ pages:
       - Quadro de horários: "horarios.md"
   - Gerenciamento de Qualidade:
       - Plano de Qualidade: "planoQualidade.md"
+  - Planejamento de custos: "custos.md"
   - Sprints:
       - Sprint 1: "sprint1.md"
   - EVM: 'evm.md'
