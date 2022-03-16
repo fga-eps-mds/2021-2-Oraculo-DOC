@@ -11,6 +11,7 @@
 |08/03/2022|1.4| Adição do tópico da política do repositório de documentação | [Caio César Beleza](github.com/Caiocbeleza)|
 |09/03/2022|1.5| Adição do tópico da política de criação de branches | [Caio César Beleza](github.com/Caiocbeleza)|
 |09/03/2022|1.6| Adição do tópico da política de criação de issues | [Caio César Beleza](github.com/Caiocbeleza)|
+|16/03/2022|1.6| Adição do tópico da política de criação de pull requests | [Caio César Beleza](github.com/Caiocbeleza)|
 
 
 
@@ -94,11 +95,18 @@ As histórias de usuário devem seguir o seguinte padrão:
 - <mark>[US][Número da história] - [Nome da história] </mark>
 
 
-### 5. Monitoramento
+### 5. Pull Requests
+
+- Os pull requests só serão aceitos quando feitos a partir de branches válidas.
+- Os pull requests têm que apresentar título e descrição explicativos sobre o que foi realizado.
+- Para que o pull request seja aceito, tem que estar passando nos testes.
+- Os pull requests tem que ser revisados e aceitos por, pelo menos, 1 membro de EPS.
+
+### 6. Monitoramento
 
 O monitoramento dos repositórios é feito pela equipe de gerenciamento do projeto(EPS), que é responsável também por orientar e ajudar os demais membros da equipe quanto ao cumprimento dos padrões estabelecidos. Dessa forma, é reservado à equipe de gerenciamento o poder de vetar e/ou excluir o que não estiver dentro das especificações.  
 
-### 6. Referências
+### 7. Referências
 
 - Cafofo. Plano de Gestão e Configuração de Software. Disponível em: https://github.com/desenho-2019/Wiki/blob/master/docs/Din%C3%A2mica%20e%20Semin%C3%A1rio%20II/planoDeGCS.md. Acesso em: 09/03/2022.
 
