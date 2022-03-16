@@ -1,3 +1,5 @@
+# Termo de Abertura do Projeto
+
 ## Histórico de Revisão
 
 |Data|Versão|Descrição|Autor|
@@ -44,13 +46,13 @@ Para que os usuários possam utilizar o Oráculo, eles precisam:
 
 ## 6. Riscos
 
-Os riscos são detalhados no [Documento de riscos](docs/riscos.md)
+Os riscos são detalhados no [Documento de riscos](/docs/riscos.md)
 
 ## 7. Cronograma e marcos
 
 ## 8. Orçamento
 
-O orçamento pode ser visto no [Documento de custos](docs/custos.md)
+O orçamento pode ser visto no [Documento de custos](/docs/custos.md)
 
 ## 9. Partes interessadas
 
