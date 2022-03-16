@@ -3,22 +3,22 @@ site_name: Oráculo
 pages:
   - Home: 'index.md'
   - Plano gereal e monitoramento:
-    - Gerenciamento de Riscos: 'riscos.md'
-    - Planejamento de custos: "custos.md"
-    - Gerenciamento de Pessoas: 
-    - Plano de comunicação: "comunicacao.md"
-    - Quadro de conhecimentos: "conhecimentos.md"
-    - Quadro de horários: "horarios.md"
-    - Plano de Qualidade: "planoQualidade.md"      
-  - Visão do produto:    
-    - Metodologia: 'metodologia.md'
-    - Backlog do Projeto: 'backlog.md'
-    - Roadmap: 'roadmap.md'
+      - Gerenciamento de Riscos: 'riscos.md'
+      - Planejamento de custos: "custos.md"
+      - Gerenciamento de Pessoas: 
+      - Plano de comunicação: "comunicacao.md"
+      - Quadro de conhecimentos: "conhecimentos.md"
+      - Quadro de horários: "horarios.md"
+      - Plano de Qualidade: "planoQualidade.md"      
+  - Visão do produto: 'visao.md'  
+      - Metodologia: 'metodologia.md'
+      - Backlog do Projeto: 'backlog.md'
+      - Roadmap: 'roadmap.md'
   - Domumentação:  
-    - Identidade Visual: 'identidade.md'
-    - Protótipo: 'prototipo.md'
-    - Documento de Arquitetura: 'arquitetura.md'  
-    - Sprint 1: "sprint1.md"
+      - Identidade Visual: 'identidade.md'
+      - Protótipo: 'prototipo.md'
+      - Documento de Arquitetura: 'arquitetura.md'  
+      - Sprint 1: "sprint1.md"
   - Equipe: 'equipe.md'
   - Apresentações: 'apresentacoes.md'
 theme:
