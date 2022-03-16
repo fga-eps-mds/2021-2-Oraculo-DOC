@@ -11,7 +11,7 @@
 |08/03/2022|1.4| Adição do tópico da política do repositório de documentação | [Caio César Beleza](github.com/Caiocbeleza)|
 |09/03/2022|1.5| Adição do tópico da política de criação de branches | [Caio César Beleza](github.com/Caiocbeleza)|
 |09/03/2022|1.6| Adição do tópico da política de criação de issues | [Caio César Beleza](github.com/Caiocbeleza)|
-|16/03/2022|1.6| Adição do tópico da política de criação de pull requests | [Caio César Beleza](github.com/Caiocbeleza)|
+|16/03/2022|1.7| Adição do tópico da política de criação de pull requests | [Caio César Beleza](github.com/Caiocbeleza)|
 
 
 
