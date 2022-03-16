@@ -6,14 +6,11 @@ pages:
     - Gerenciamento de Riscos: 'riscos.md'
     - Planejamento de custos: "custos.md"
     - Gerenciamento de Pessoas: 
-      - Plano de comunicação: "comunicacao.md"
-      - Quadro de conhecimentos: "conhecimentos.md"
-      - Quadro de horários: "horarios.md"
-    - Gerenciamento de Qualidade:
-      - Plano de Qualidade: "planoQualidade.md"
-    - Sprints:
-      - Sprint 1: "sprint1.md"
-  - Visão do produto: 'visao.md'      
+    - Plano de comunicação: "comunicacao.md"
+    - Quadro de conhecimentos: "conhecimentos.md"
+    - Quadro de horários: "horarios.md"
+    - Plano de Qualidade: "planoQualidade.md"      
+  - Visão do produto:    
     - Metodologia: 'metodologia.md'
     - Backlog do Projeto: 'backlog.md'
     - Roadmap: 'roadmap.md'
@@ -21,6 +18,7 @@ pages:
     - Identidade Visual: 'identidade.md'
     - Protótipo: 'prototipo.md'
     - Documento de Arquitetura: 'arquitetura.md'  
+    - Sprint 1: "sprint1.md"
   - Equipe: 'equipe.md'
   - Apresentações: 'apresentacoes.md'
 theme:
