@@ -1,6 +1,7 @@
 | Versão | Data       | Modificação                    | Motivo | Autor(es) |
 | ------ | ---------- | ------------------------------ | :----: | ----- |
 | 1.0    | 16/03/2022 | Criação do documento  | - | João Victor |
+| 2.0    | 16/03/2022 | Complemento dos campos | - | Lucas Lopes Xavier |
 
 
 ## Introdução
