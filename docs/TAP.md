@@ -1,4 +1,12 @@
-## Sumário
+## Histórico de Revisão
+
+|Data|Versão|Descrição|Autor|
+|--|--|--|--|
+|24/02/2022|0.1|Criação da estrutura inicial do documento|Caio César Beleza|
+|24/02/2022|0.2|Adição do tópico de introdução ao documento|Caio César Beleza|
+|24/02/2022|0.3|Adição dos tópicos de justificativa e objetivos do projeto |Caio César Beleza|
+|24/02/2022|0.4|Adição dos tópicos 4, 5, 9 e 10 |Caio César Beleza|
+
 
 ## 1. Introdução
 
@@ -36,9 +44,13 @@ Para que os usuários possam utilizar o Oráculo, eles precisam:
 
 ## 6. Riscos
 
+Os riscos são detalhados no [Documento de riscos](docs/riscos.md)
+
 ## 7. Cronograma e marcos
 
 ## 8. Orçamento
+
+O orçamento pode ser visto no [Documento de custos](docs/custos.md)
 
 ## 9. Partes interessadas
 
@@ -74,12 +86,4 @@ O projeto deve alcançar o Mínimo Produto Viável(MVP), que se baseia nas metas
 
 ## 11. Referências
 
-
-## Histórico de Revisão
-
-|Data|Versão|Descrição|Autor|
-|--|--|--|--|
-|24/02/2022|0.1|Criação da estrutura inicial do documento|Caio César Beleza|
-|24/02/2022|0.2|Adição do tópico de introdução ao documento|Caio César Beleza|
-|24/02/2022|0.3|Adição dos tópicos de justificativa e objetivos do projeto |Caio César Beleza|
-|24/02/2022|0.4|Adição dos tópicos 4, 5, 9 e 10 |Caio César Beleza|
+Gerecia Mais. Termo de aberturado projeto. Disponível em https://github.com/fga-eps-mds/2018.1_Gerencia_mais/blob/master/docs/documentos/Eps/Termo_de_abertura_do_Projeto.md . Acesso em 16/03/2022.
