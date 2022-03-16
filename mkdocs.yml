@@ -13,7 +13,6 @@ pages:
       - Plano de Qualidade: "planoQualidade.md"
     - Sprints:
       - Sprint 1: "sprint1.md"
-
   - Visão do produto: 'visao.md'      
     - Metodologia: 'metodologia.md'
     - Backlog do Projeto: 'backlog.md'
@@ -22,7 +21,6 @@ pages:
     - Identidade Visual: 'identidade.md'
     - Protótipo: 'prototipo.md'
     - Documento de Arquitetura: 'arquitetura.md'  
-  
   - Equipe: 'equipe.md'
   - Apresentações: 'apresentacoes.md'
 theme:
