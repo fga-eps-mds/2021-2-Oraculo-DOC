@@ -8,6 +8,7 @@
 |17/03/2022|0.2|Criação da introdução e adição do protótipo da nova página inicial|Caio César Beleza|
 |17/03/2022|0.3|Adição do protótipo da página de estatísticas|Caio César, João Victor, Lucas Lopes|
 |17/03/2022|0.4|Adição do protótipo do novo formulário de registro|Caio César, João Victor, Lucas Lopes|
+|17/03/2022|0.5|Adição do protótipo da funcionalidade de acusar recebimento|Caio César, João Victor, Lucas Lopes|
 
 
 ## 1. Introdução
@@ -34,6 +35,16 @@ Os protótipos de alta fidelidade foram feitos para apresentar uma visão mais d
 ### 2.3. Protótipo do novo formulário de cadastro de registro
 
 ![image](https://user-images.githubusercontent.com/37124720/158891903-37ed2980-a964-41bb-9a9b-a1b2dabf7fef.png)
+
+
+### 2.4. Protótipo da criação de tags
+
+![image](https://user-images.githubusercontent.com/37124720/158892443-36bb8666-1717-481e-ac3f-4d7c1e12552f.png)
+
+
+### 2.5. Protótipo do acusar recebimento
+
+![image](https://user-images.githubusercontent.com/37124720/158892659-4448bd46-9b7b-4455-8ec4-089c1044f8eb.png)
 
 
 
