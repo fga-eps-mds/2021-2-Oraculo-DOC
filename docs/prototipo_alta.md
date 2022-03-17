@@ -7,6 +7,7 @@
 |17/03/2022|0.1|Criação da estrutura inicial do documento|Caio César Beleza|
 |17/03/2022|0.2|Criação da introdução e adição do protótipo da nova página inicial|Caio César Beleza|
 |17/03/2022|0.3|Adição do protótipo da página de estatísticas|Caio César, João Victor, Lucas Lopes|
+|17/03/2022|0.4|Adição do protótipo do novo formulário de registro|Caio César, João Victor, Lucas Lopes|
 
 
 ## 1. Introdução
@@ -29,6 +30,12 @@ Os protótipos de alta fidelidade foram feitos para apresentar uma visão mais d
 ### 2.2. Protótipo da página de estatísticas
 
 ![image](https://user-images.githubusercontent.com/37124720/158891353-908d0c41-d09d-4491-afc4-cf6af440c415.png)
+
+### 2.3. Protótipo do novo formulário de cadastro de registro
+
+![image](https://user-images.githubusercontent.com/37124720/158891903-37ed2980-a964-41bb-9a9b-a1b2dabf7fef.png)
+
+
 
 
 ## Referências
