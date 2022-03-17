@@ -7,6 +7,7 @@
 |17/03/2022|0.1|Criação da estrutura inicial do documento|Caio César Beleza|
 |17/03/2022|0.2|Adição do protótipo do novo formulário e botão de criação de tags|Caio César Beleza|
 |17/03/2022|0.3|Adição do protótipo da página de estatísticas|Caio César Beleza, Lucas Lopes, João Victor|
+|17/03/2022|0.4|Adição do protótipo da página de acusar recebimento de processo|Caio César Beleza, Lucas Lopes, João Victor|
 
 
 ## 1. Introdução
@@ -28,7 +29,9 @@ Este protótipo é referente aos novos campos que serão inseridos no formulári
 
 Este protótipo é referente à página de estatísticas que será implementada no projeto.
 
+![acusarRecebimento_prototipo_baixa](https://user-images.githubusercontent.com/37124720/158855215-bd515278-0e38-4bb8-a1df-68de810f9f63.png)
 
+Este protótipo ilustra a funcionalidade de acusar recebimento de um processo que será implementada.
 
 ## Referências
 
