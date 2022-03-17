@@ -6,6 +6,7 @@
 |--|--|--|--|
 |17/03/2022|0.1|Criação da estrutura inicial do documento|Caio César Beleza|
 |17/03/2022|0.2|Criação da introdução e adição do protótipo da nova página inicial|Caio César Beleza|
+|17/03/2022|0.3|Adição do protótipo da página de estatísticas|Caio César, João Victor, Lucas Lopes|
 
 
 ## 1. Introdução
@@ -20,9 +21,15 @@ O protótipo de alta fidelidade é uma boa ferramenta para dar uma ideia dos flu
 
 Os protótipos de alta fidelidade foram feitos para apresentar uma visão mais detalhada das correções, melhorias e novas funcionalidades que serão implementadas no produto Oráculo.
 
-### 2.2. Protótipo da nova página inicial
+### 2.1. Protótipo da nova página inicial
 
 ![image](https://user-images.githubusercontent.com/37124720/158890556-db94c7af-78b1-4df4-8f89-acb226d881b8.png)
+
+
+### 2.2. Protótipo da página de estatísticas
+
+![image](https://user-images.githubusercontent.com/37124720/158891353-908d0c41-d09d-4491-afc4-cf6af440c415.png)
+
 
 ## Referências
 
