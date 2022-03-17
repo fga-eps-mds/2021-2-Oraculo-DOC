@@ -6,6 +6,7 @@
 |--|--|--|--|
 |17/03/2022|0.1|Criação da estrutura inicial do documento|Caio César Beleza|
 |17/03/2022|0.2|Adição do protótipo do novo formulário e botão de criação de tags|Caio César Beleza|
+|17/03/2022|0.3|Adição do protótipo da página de estatísticas|Caio César Beleza, Lucas Lopes, João Victor|
 
 
 ## 1. Introdução
@@ -21,6 +22,11 @@ Os protótipos de baixa fidelidade foram feitos para ilustrar as novas funcional
 ![formulário criartag_prototipo_baixa](https://user-images.githubusercontent.com/37124720/158853825-4c493da9-69ff-445f-af1c-4ff722f66420.png)
 
 Este protótipo é referente aos novos campos que serão inseridos no formulário de criação de registros e ao botão de criar tags que será adicionado na página de tags.
+
+
+![estatísticas_prototipo_baixa](https://user-images.githubusercontent.com/37124720/158854519-b1dce74b-b603-4d8a-a8db-4c1d71f49f75.png)
+
+Este protótipo é referente à página de estatísticas que será implementada no projeto.
 
 
 
