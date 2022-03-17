@@ -7,13 +7,14 @@ pages:
       - Quadro de Conhecimentos: 'conhecimentos.md'
       - Quadro de Horários: "horarios.md"
     - Pipeline: 'pipeline.md'
+    - Cronograma: 'diagrama_gantt.md'
   - Produto:
     - Visão do Produto: 'visao.md'
     - Documento de Arquitetura: 'arquitetura.md'
     - Protótipo de Baixa fidelidade: 'prototipo.md'
     - EAP: 'EAP.md'
   - Planos:
-    - Gerenciamento de Riscos: 
+    - Gerenciamento de Riscos:
       - Planejamento de Riscos: 'riscos.md'
     - Gerenciamento de Qualidade:
       - Planejamento de Qualidade: "planoQualidade.md"
