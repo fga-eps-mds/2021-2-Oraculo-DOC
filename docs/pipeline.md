@@ -11,9 +11,9 @@
 
 ## Ambiente de desenvolvimento
 
-No ambiente de desenvolvimento, há três pipelines diferentes.  <br>
+No ambiente de desenvolvimento, há três pipelines diferentes.  <br> <br>
 
-A primeira, executa a aplicação pelo sonar para estimar as métricas de qualidade.  <br>
+A primeira, executa a aplicação pelo sonar para estimar as métricas de qualidade.  <br> <br>
 
 Já a segunda, depois de ter passado pela primeira pipeline, faz o deploy automaticamente na heroku atráves da `branch devel`. <br>
 A terceira, ao criar uma tag, é gerado uma nova release e é enviada as métricas para o [repositório de documentação](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc)
