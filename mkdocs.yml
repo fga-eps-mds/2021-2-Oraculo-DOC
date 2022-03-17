@@ -7,7 +7,6 @@ pages:
       - Quadro de Conhecimentos: 'conhecimentos.md'
       - Quadro de Horários: "horarios.md"
     - Pipeline: 'pipeline.md'
-    - Cronograma: 'diagrama_gantt.md'
   - Produto:
     - Visão do Produto: 'visao.md'
     - Documento de Arquitetura: 'arquitetura.md'
@@ -20,6 +19,8 @@ pages:
       - Planejamento de Qualidade: "planoQualidade.md"
     - Gerenciamento de Custos:
       - Planejamento de custos: "custos.md"
+    - Cronograma: 'diagrama_gantt.md'
+
   - Sprints:
       - Sprint 1: "sprint1.md"
 theme:

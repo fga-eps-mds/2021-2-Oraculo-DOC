@@ -10,7 +10,7 @@
 
 A Estrutura Analítica do Projeto (EAP) é uma representação visual da organização de um projeto, utilizada para facilitar o entendimento desse projeto. A proposta dessa ferramenta é  estabelecer as fases principais e mapear as tarefas necessárias para atingi-las.
 
-![Estrutura Analítica do Projeto](/docs/assets/imgs/EAP-V1.png)
+![Estrutura Analítica do Projeto](../docs/assets/imgs/EAP-V1.png)
 
 
 
