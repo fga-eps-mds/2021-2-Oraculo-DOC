@@ -9,7 +9,7 @@ pages:
     - Pipeline: 'pipeline.md'
   - Produto:
     - Visão do Produto: 'visao.md'
-    - Documento de Arquitetura: arquitetura.md'
+    - Documento de Arquitetura: 'arquitetura.md'
     - Protótipo de Baixa fidelidade: 'prototipo.md'
     - EAP: 'EAP.md'
   - Planos:
