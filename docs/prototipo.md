@@ -1,4 +1,4 @@
-# Protótipo de baixa fidelidade
+# Protótipo de Baixa Fidelidade
 
 ## Histórico de Revisão
 

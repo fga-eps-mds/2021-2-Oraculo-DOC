@@ -11,7 +11,8 @@ pages:
     - Visão do Produto: 'visao.md'
     - Documento de Arquitetura: 'arquitetura.md'
     - Protótipos:
-      - Protótipo de Baixa fidelidade: 'prototipo.md'
+      - Protótipo de Baixa Fidelidade: 'prototipo.md'
+      - Protótipo de Alta Fidelidade: 'prototipo_alta.md'
     - EAP: 'EAP.md'
   - Planos:
     - Gerenciamento de Riscos:
