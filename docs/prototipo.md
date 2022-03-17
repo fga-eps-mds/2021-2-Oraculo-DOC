@@ -18,17 +18,24 @@ Esse tipo de protótipo é interessante por ser rápido e ter pouco custo de exe
 
 Entretanto, é necessário se atentar aos fatos de que o protótipo de baixa fidelidade possui um grau de detalhamento baixo, não possui recursos de interação e não necessariamente ilustra o design que o produto terá ao final do desenvolvimento.
 
+
+## 2. Protótipos
+
 Os protótipos de baixa fidelidade foram feitos para ilustrar as novas funcionalidades que serão implementadas no projeto Oráculo no 2º semestre de 2021.
 
+## 2.1. Protótipo do novo formulário e criação de tags
 ![formulário criartag_prototipo_baixa](https://user-images.githubusercontent.com/37124720/158853825-4c493da9-69ff-445f-af1c-4ff722f66420.png)
+
 
 Este protótipo é referente aos novos campos que serão inseridos no formulário de criação de registros e ao botão de criar tags que será adicionado na página de tags.
 
-
+### 2.2. Protótipo da página de estatísticas
 ![estatísticas_prototipo_baixa](https://user-images.githubusercontent.com/37124720/158854519-b1dce74b-b603-4d8a-a8db-4c1d71f49f75.png)
 
 Este protótipo é referente à página de estatísticas que será implementada no projeto.
 
+
+### 2.3. Protótipo do acusar recebimento
 ![acusarRecebimento_prototipo_baixa](https://user-images.githubusercontent.com/37124720/158855215-bd515278-0e38-4bb8-a1df-68de810f9f63.png)
 
 Este protótipo ilustra a funcionalidade de acusar recebimento de um processo que será implementada.
