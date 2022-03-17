@@ -14,7 +14,7 @@ O Diagrama de Gantt é uma representação visual do cronograma de um projeto e 
 O gráfico mostra as tarefas que precisam ser feitas, a ordem entre elas, quando têm que ser iniciadas e a estimativa de quando serão finalizadas.
 
 
-![Diagrama de Gantt](../docs/assets/imgs/gantt.png)
+![gantt](https://user-images.githubusercontent.com/37124720/158848523-0db329ab-fc51-4020-abdf-5d3ca7d71eb8.png)
 
 
 ## Referências

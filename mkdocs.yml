@@ -10,7 +10,8 @@ pages:
   - Produto:
     - Visão do Produto: 'visao.md'
     - Documento de Arquitetura: 'arquitetura.md'
-    - Protótipo de Baixa fidelidade: 'prototipo.md'
+    - Protótipos:
+      - Protótipo de Baixa fidelidade: 'prototipo.md'
     - EAP: 'EAP.md'
   - Planos:
     - Gerenciamento de Riscos:
