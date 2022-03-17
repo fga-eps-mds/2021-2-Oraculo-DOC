@@ -20,7 +20,6 @@ pages:
     - Gerenciamento de Custos:
       - Planejamento de custos: "custos.md"
     - Cronograma: 'diagrama_gantt.md'
-
   - Sprints:
       - Sprint 1: "sprint1.md"
 theme:
