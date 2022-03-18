@@ -34,19 +34,26 @@ Este protótipo é referente às mudanças que serão implementadas da página i
 
 ![image](https://user-images.githubusercontent.com/37124720/158891353-908d0c41-d09d-4491-afc4-cf6af440c415.png)
 
+Este protótipo ilustra a página de estatísticas que será implementada para que um administrador possa ver dados sobre os andamentos dos registros.
+
 ### 2.3. Protótipo do novo formulário de cadastro de registro
 
 ![image](https://user-images.githubusercontent.com/37124720/158891903-37ed2980-a964-41bb-9a9b-a1b2dabf7fef.png)
+
+Este protótipo mostra os novos campos que serão inseridos no formulário de cadastro de registros, que serão utilizadas em outras funcionalidades.
 
 
 ### 2.4. Protótipo da criação de tags
 
 ![image](https://user-images.githubusercontent.com/37124720/158892443-36bb8666-1717-481e-ac3f-4d7c1e12552f.png)
 
+Este protótipo mostra a melhoria feita na página de tags, onde além de mostrar as tags já existentes, terá a opção para a criação de novas tags.
 
 ### 2.5. Protótipo do acusar recebimento
 
 ![image](https://user-images.githubusercontent.com/37124720/158892659-4448bd46-9b7b-4455-8ec4-089c1044f8eb.png)
+
+Este protótipo é referente à funcionalidade de acusar o recebimento de um determinado registro por algum servidor, que será implementada no Oráculo.
 
 
 
