@@ -16,6 +16,8 @@ O gráfico mostra as tarefas que precisam ser feitas, a ordem entre elas, quando
 
 ![gantt](https://user-images.githubusercontent.com/37124720/158848523-0db329ab-fc51-4020-abdf-5d3ca7d71eb8.png)
 
+<iframe height="400px" width="700px" src="https://docs.google.com/spreadsheets/d/14Rb_wx_5HpvCUKx2qg6PAo3Evs_fsQP34oll3uA3q2k/edit?usp=sharing"></iframe>
+
 
 ## Referências
 
