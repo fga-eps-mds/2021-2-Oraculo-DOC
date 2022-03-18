@@ -158,8 +158,11 @@ A equipe estará monitorando os riscos apresentados durante os eventos SCRUM. Se
 | RP2 | Através da metodologia ágil, terá acompanhamento constante da produtividade da equipe |
 | RP3 | Através do cronograma do projeto |
 
+## Burndown de risco
 
-<iframe height="500px" width="800px" src="https://docs.google.com/spreadsheets/d/1LdK-BoqEZfWQMOEm2_Gff1ewhN1jzP0w3mvZZlTNouc/edit?usp=sharing"></iframe>
+![image](https://i.imgur.com/SxvYt5V.png)
+
+[Planilha](https://docs.google.com/spreadsheets/d/1LdK-BoqEZfWQMOEm2_Gff1ewhN1jzP0w3mvZZlTNouc/edit?usp=sharing)
 
 
 # Referências
