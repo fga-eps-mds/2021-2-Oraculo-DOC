@@ -27,6 +27,8 @@ Os protótipos de alta fidelidade foram feitos para apresentar uma visão mais d
 
 ![image](https://user-images.githubusercontent.com/37124720/158890556-db94c7af-78b1-4df4-8f89-acb226d881b8.png)
 
+Este protótipo é referente às mudanças que serão implementadas da página inicial do oráculo, que refletirão as novas funcionalidades de permitir uma pesquisa de registros por uma período específico de tempo e poder gerar uma planilha com os registros pesquisados.
+
 
 ### 2.2. Protótipo da página de estatísticas
 
