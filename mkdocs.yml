@@ -7,13 +7,13 @@ pages:
       - Quadro de Conhecimentos: 'conhecimentos.md'
       - Quadro de Horários: "horarios.md"
     - Pipeline: 'pipeline.md'
+    - EAP: 'EAP.md'
   - Produto:
     - Visão do Produto: 'visao.md'
     - Documento de Arquitetura: 'arquitetura.md'
     - Protótipos:
       - Protótipo de Baixa Fidelidade: 'prototipo.md'
       - Protótipo de Alta Fidelidade: 'prototipo_alta.md'
-    - EAP: 'EAP.md'
   - Planos:
     - Gerenciamento de Riscos:
       - Planejamento de Riscos: 'riscos.md'
