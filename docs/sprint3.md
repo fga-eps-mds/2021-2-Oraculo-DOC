@@ -40,7 +40,7 @@ Cicéro | presente
 Pedro | presente 
 Daniel | presente 
 Gabriel | presente 
-Alves | presente 
+Alves | Ausente 
 
 
 # Sprint Review
@@ -67,12 +67,12 @@ Cicéro | presente
 Pedro | presente 
 Daniel | presente 
 Gabriel | presente 
-Alves | presente 
+Alves | Ausente 
 
 
 # Sprint Retrospective
 
-<iframe src='https://app.mural.co/embed/b5ce7d31-34fd-445b-869e-b1c31728af8c'
+<iframe src='https://app.mural.co/invitation/mural/unbfgaepsmds202111846/1648510042565?sender=ub12231785a004abcf4161543&key=0626bf8f-cfb1-431c-bf1d-c6075965e80a'
         width='100%'
         height='480px'
         style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef'
