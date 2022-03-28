@@ -1,9 +1,9 @@
-# Sprint 01
+# Sprint 03
 
 | Versão | Data       | Modificação                    | Motivo | Autor(es) |
 | ------ | ---------- | ------------------------------ | :----: | ----- |
-| 1.0    | 13/03/2022 | Criação do documento  | - | Lucas Lopes |
-| 1.1    | 13/03/2022 | Adicionando dados do documento  | - | João Victor |
+| 1.0    | 28/03/2022 | Criação do documento  | - | Lucas Lopes |
+
 
 # Informações básicas sobre a sprint
 
