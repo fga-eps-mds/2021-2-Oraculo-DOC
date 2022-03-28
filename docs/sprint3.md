@@ -26,6 +26,7 @@ Issue |  Pontos | Responsáveis | Status |
 [#42](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/42)| 1 | André, Matheus, Daniel | Concluído
 [#41](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/41)| 8  | Arthur, Gabriel e Cícero | Concluído |
 [#40](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/40)| 2 | André e Pedro | Concluído |
+Resolver erro das métricas do sonar | João, Lucas e Caio | Concluído |
 
 ## Presença na sprint planning
 
