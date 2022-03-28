@@ -10,8 +10,8 @@
 
 | Sprint   | 4
 --------- | ------
-Início | 03/04/2022
-Término | 10/04/2022
+Início | 27/03/2022
+Término | 03/04/2022
 Duração | 1 semana
 Pontuação total | -
 Pontuação concluída | -
