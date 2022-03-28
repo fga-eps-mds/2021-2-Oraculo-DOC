@@ -8,13 +8,13 @@
 # Informações básicas sobre a sprint
 
 
-| Sprint   | 1
+| Sprint   | 3
 --------- | ------
-Início | 19h
-Término | 20h50
-Duração | 1h50
-Pontuação total | 
-Pontuação concluída | - 
+Início | 20/03/2022
+Término | 27/03/2022
+Duração | 1 semana
+Pontuação total | 11
+Pontuação concluída | 11
 
 
 # Sprint Planning 
@@ -23,9 +23,9 @@ Pontuação concluída | -
 
 Issue |  Pontos | Responsáveis | Status |
 :--------- | :------: |  -------: | -------:
-[#42](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/42)| - | - | Em andamento
-[#41](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/41)| -  | - | Em andamento
-[#40](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/40)| - | - | Em andamento
+[#42](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/42)| 1 | André, Matheus, Daniel | Concluído
+[#41](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/41)| 8  | Arthur, Gabriel e Cícero | Concluído |
+[#40](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/40)| 2 | André e Pedro | Concluído |
 
 ## Presença na sprint planning
 
@@ -47,10 +47,10 @@ Alves | Ausente
 
 | Descrição   | Pontos
 --------- | ------
-Total de Pontos Planejados | -
-Total de Pontos Planejados e Concluídos	 | -
-Total de Pontos Adicionados | -
-Dívida para a próxima Sprint | -
+Total de Pontos Planejados | 11
+Total de Pontos Planejados e Concluídos	 | 11
+Total de Pontos Adicionados | 0
+Dívida para a próxima Sprint | 0
 
 
 
