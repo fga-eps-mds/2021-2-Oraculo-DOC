@@ -79,10 +79,6 @@ Alves | -
 
 ## Quadro de conhecimento
 
-[Link para acesso ao documento](https://docs.google.com/spreadsheets/d/1nqJKIbMjU4GkLLk5oF7re7CeyluXqbJGnBTBv_vdfSw/edit?usp=sharing)
-
- <iframe height="400px" width="700px" src="https://docs.google.com/spreadsheets/d/1nqJKIbMjU4GkLLk5oF7re7CeyluXqbJGnBTBv_vdfSw/edit?usp=sharing"></iframe>
-
 
 
 
