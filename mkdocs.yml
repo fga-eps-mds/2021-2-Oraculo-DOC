@@ -1,5 +1,5 @@
 site_name: Oráculo
-pages:
+nav:
   - Home: home.html
   - Organização:
     - Gerenciamento de Pessoas:
