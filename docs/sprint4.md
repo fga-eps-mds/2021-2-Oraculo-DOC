@@ -26,7 +26,7 @@ Issue |  Pontos | Responsáveis | Status |
  - | - | - | - |
 -  | -  | - | - |
 - | - | - | - |
--  | - | - |
+-  | - | - | - |
 
 ## Presença na sprint planning
 
