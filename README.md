@@ -1,6 +1,6 @@
 # Oráculo
 
-O projeto Oráculo é um sistema que facilita o registro e controle de tramitação de processos dentro do setor de Gerência de Identificação da Policia Civil do Estado de Goiás. Com esse sistema a GI/PCGO terá um maior controle sobre as tramitações dos documentos dentro do setor em tempo real.
+O projeto Oráculo é a continuação do projeto [Oráculo](https://github.com/fga-eps-mds/2021.1-Oraculo) iniciado no 1º semestre do ano de 2021 nas disciplinas de Métodos de Desenvolvimento de Software(MDS) e Engenharia de Produto de Software(EPS) e é um sistema que facilita o registro e controle de tramitação de processos dentro do setor de Gerência de Identificação da Policia Civil do Estado de Goiás. Com esse sistema a GI/PCGO terá um maior controle sobre as tramitações dos documentos dentro do setor em tempo real.
 
 ## Contribuir
 
@@ -9,12 +9,12 @@ Caso reste duvidas você também pode entrar em contato conosco criando uma issu
 
 ## Ambiente
 
-O Projeto é feito utilizando a arquitura baseada em microsserviços, com isso possui 5 repositórios:
+O Projeto é feito utilizando a arquitetura baseada em microsserviços, com isso possui 5 repositórios:
 
 - [Documentação](https://github.com/fga-eps-mds/2021.1-Oraculo)
 - [FrontEnd](https://github.com/fga-eps-mds/2021.2-Oraculo-FrontEnd)
 - [API de Usuários](https://github.com/fga-eps-mds/2021.2-Oraculo-Profile)
-- [API de Processos](https://github.com/fga-eps-mds/2021.2-Oraculo-Processos)
+- [API de Processos](https://github.com/fga-eps-mds/2021.2-Oraculo-Registros)
 
 Para executar o projeto é preciso rodar os seguintes passos em todos os repositórios vinculados ao projeto:
 
