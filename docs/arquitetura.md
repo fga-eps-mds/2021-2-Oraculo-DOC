@@ -4,6 +4,12 @@
 
 | Data       | Versão | Alteração                                                    | Autor                    |
 | ---------- | ------ | ------------------------------------------------------------ | ------------------------ |
+| 10/08/2021 | 0.1    | Abertura do documento de Arquitetura                         | Érico Maximiano Bandeira |
+| 07/09/2021 | 0.2    | Adição da introdução e Representação da arquitetura          | Max Henrique Barbosa     |
+| 11/09/2021 | 0.3    | Adição de imagem e alteração na Representação da arquitetura | Max Henrique Barbosa     |
+| 23/09/2021 | 0.4    | Adição da Visão Lógica                                       | Max Henrique Barbosa     |
+| 26/10/2021 | 0.5    | Atualização do tópico de Visão lógica Lógica                                       | Max Henrique Barbosa     |
+| 08/11/2021 | 0.6   | Remoção de Tags, e atualização de 'processos' no documento                                 | Max Henrique Barbosa     |
 14/03/2022 | 1.0 | Atualização do documento de arquitetura | Lucas Lopes, João Vitor e Caio César |
 
 ## 1. Introdução
@@ -123,3 +129,4 @@ Visando a utilização de microsserviços para o desenvolvimento, faz-se necess�
 - Documentação do Postgre - https://www.postgresql.org/docs/
 - Documentação do NodeJs - https://nodejs.org/en/docs/
 - Documentação do React - https://pt-br.reactjs.org/
+- Projeto Oráculo Inicial - https://github.com/fga-eps-mds/2021.1-Oraculo
