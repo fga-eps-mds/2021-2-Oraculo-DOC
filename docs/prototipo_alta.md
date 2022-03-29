@@ -60,6 +60,8 @@ Este protótipo é referente à funcionalidade de acusar o recebimento de um det
 
 ## Referências
 
-Medium. Prototipagem de alta fidelidade: o que é, quando, por que e como usar?. Disponível em: https://medium.com/somos-tera/prototipagem-de-alta-fidelidade-635d745b662b . Acesso em: 17/03/2022.
+- Medium. Prototipagem de alta fidelidade: o que é, quando, por que e como usar?. Disponível em: https://medium.com/somos-tera/prototipagem-de-alta-fidelidade-635d745b662b . Acesso em: 17/03/2022.
 
-SoftDesign. Protótipo: baixa e alta fidelidade. Disponível em: https://softdesign.com.br/blog/prototipo-baixa-e-alta-fidelidade . Acesso em: 17/03/2022.
+- SoftDesign. Protótipo: baixa e alta fidelidade. Disponível em: https://softdesign.com.br/blog/prototipo-baixa-e-alta-fidelidade . Acesso em: 17/03/2022.
+
+- Projeto Oráculo Inicial - https://github.com/fga-eps-mds/2021.1-Oraculo

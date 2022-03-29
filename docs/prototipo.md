@@ -42,6 +42,8 @@ Este protótipo ilustra a funcionalidade de acusar recebimento de um processo qu
 
 ## Referências
 
-Startup Sorocaba. O que são protótipos de baixa e alta fidelidade?. Disponível em: https://startupsorocaba.com/startup-sorocaba-o-que-sao-prototipos-de-baixa-e-alta-fidelidade/ . Acesso em: 17/03/2022.
+- Startup Sorocaba. O que são protótipos de baixa e alta fidelidade?. Disponível em: https://startupsorocaba.com/startup-sorocaba-o-que-sao-prototipos-de-baixa-e-alta-fidelidade/ . Acesso em: 17/03/2022.
 
-DIGITALHOUSE. Protótipo de baixa fidelidade: o que é e como desenvolver em um projeto?. Disponível em: https://www.digitalhouse.com/br/blog/prototipo-de-baixa-fidelidade/ . Acesso em: 17/03/2022
+- DIGITALHOUSE. Protótipo de baixa fidelidade: o que é e como desenvolver em um projeto?. Disponível em: https://www.digitalhouse.com/br/blog/prototipo-de-baixa-fidelidade/ . Acesso em: 17/03/2022
+
+- Projeto Oráculo Inicial - https://github.com/fga-eps-mds/2021.1-Oraculo
