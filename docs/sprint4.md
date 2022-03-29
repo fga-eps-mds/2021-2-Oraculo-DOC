@@ -23,10 +23,10 @@ Pontuação concluída | -
 
 Issue |  Pontos | Responsáveis | Status |
 :--------- | :------: |  -------: | -------:
- - | - | - | - |
--  | -  | - | - |
-- | - | - | - |
--  | - | - | - |
+ [#29](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/29) | 13 | André, Cícero e Matheus | Em progresso |
+Realizar testes de frontend  | -  | Arthur e Daniel | Em andamento |
+Realizar testes de frontend | - | Pedro, Alves e Gabriel | Em andamento |
+
 
 ## Presença na sprint planning
 
