@@ -32,7 +32,7 @@ Resolver erro das métricas do sonar | -  | João, Lucas e Caio | Concluido |
 
 | Membro   | Presença
 --------- | ------
-Lucas Lopes | presente
+Lucas Lopes | Ausente
 Caio  | presente
 João | presente
 Luís Bruno | Ausente
@@ -41,7 +41,7 @@ Cicéro | presente
 Pedro | presente 
 Daniel | presente 
 Gabriel | presente 
-Alves | Ausente 
+Alves | presente 
 
 
 # Sprint Review
