@@ -24,8 +24,8 @@ nav:
     - Cronograma: 'diagrama_gantt.md'
   - Sprints:
       - Sprint 1: "sprint1.md"
-      - Sprint 3: "sprint3.md"
-      - Sprint 4: "sprint4.md"
+      - Sprint 2: "sprint3.md"
+      - Sprint 3: "sprint4.md"
 theme:
   name: material
   language: pt
