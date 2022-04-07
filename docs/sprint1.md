@@ -13,7 +13,7 @@
 Início | 19h
 Término | 20h50
 Duração | 1h50
-Pontuação total | 
+Pontuação total | 18
 Pontuação concluída | - 
 
 
@@ -23,27 +23,27 @@ Pontuação concluída | -
 
 Issue |  Pontos | Responsáveis | Status |
 :--------- | :------: |  -------: | -------:
-[#23](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/23)|  5 | Arthur e Pedro | Em andamento
-[#24](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/24)|  8 | Andre e Daniel | Em andamento
-[#25](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/25)|  3 | Cicero, Gabriel e Matheus | Em andamento
-[#26](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/26)|  2 |Cicero, Gabriel e Matheus | Em andamento
-[#3](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/3)   | - | João Victor , Caio beleza , Lucas Lopes| Em andamento
-[#46](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/46) | - | João Victor , Caio beleza , Lucas Lopes | Em andamento
-[#45](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/45) | - | João Victor , Caio beleza , Lucas Lopes | Em andamento
-[#49](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/49) | - | João Victor , Caio beleza , Lucas Lopes | Em andamento
-[#50](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/50) | - | João Victor , Caio beleza , Lucas Lopes | Em andamento
-[#47](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/47) | - | João Victor , Caio beleza , Lucas Lopes | Em andamento
-[#51](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/51) | - | João Victor , Caio beleza , Lucas Lopes | Em andamento
-[#52](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/52) | - | João Victor , Caio beleza , Lucas Lopes | Em andamento
-[#7](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/7)   | - | João Victor , Caio beleza , Lucas Lopes | Em andamento
-[#13](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/13) | - | João Victor , Caio beleza , Lucas Lopes | Em andamento
-[#11](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/11) | - | João Victor , Caio beleza , Lucas Lopes | Em andamento
-[#10](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/10) | - | João Victor , Caio beleza , Lucas Lopes | Em andamento
-[#12](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/12) | - | João Victor , Caio beleza , Lucas Lopes | Em andamento
-[#17](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/17) | - | João Victor , Caio beleza , Lucas Lopes | Em andamento
-[#18](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/18) | - | João Victor , Caio beleza , Lucas Lopes | Em andamento
-[#21](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/21) | - | João Victor , Caio beleza , Lucas Lopes | Em andamento
-[#20](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/20) | - | João Victor , Caio beleza , Lucas Lopes | Em andamento
+[#23](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/23)|  5 | Arthur e Pedro | Dívida Técnica
+[#24](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/24)|  8 | Andre e Daniel | Dívida Técnica
+[#25](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/25)|  3 | Cicero, Gabriel e Matheus | Dívida Técnica
+[#26](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/26)|  2 |Cicero, Gabriel e Matheus | Dívida Técnica
+[#3](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/3)   | - | João Victor , Caio beleza , Lucas Lopes| Dívida Técnica
+[#46](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/46) | - | João Victor , Caio beleza , Lucas Lopes | Dívida Técnica
+[#45](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/45) | - | João Victor , Caio beleza , Lucas Lopes | Dívida Técnica
+[#49](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/49) | - | João Victor , Caio beleza , Lucas Lopes | Dívida Técnica
+[#50](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/50) | - | João Victor , Caio beleza , Lucas Lopes | Dívida Técnica
+[#47](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/47) | - | João Victor , Caio beleza , Lucas Lopes | Dívida Técnica
+[#51](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/51) | - | João Victor , Caio beleza , Lucas Lopes | Dívida Técnica
+[#52](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/52) | - | João Victor , Caio beleza , Lucas Lopes | Dívida Técnica
+[#7](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/7)   | - | João Victor , Caio beleza , Lucas Lopes | Dívida Técnica
+[#13](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/13) | - | João Victor , Caio beleza , Lucas Lopes | Dívida Técnica
+[#11](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/11) | - | João Victor , Caio beleza , Lucas Lopes | Dívida Técnica
+[#10](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/10) | - | João Victor , Caio beleza , Lucas Lopes | Dívida Técnica
+[#12](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/12) | - | João Victor , Caio beleza , Lucas Lopes | Dívida Técnica
+[#17](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/17) | - | João Victor , Caio beleza , Lucas Lopes | Dívida Técnica
+[#18](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/18) | - | João Victor , Caio beleza , Lucas Lopes | Dívida Técnica
+[#21](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/21) | - | João Victor , Caio beleza , Lucas Lopes | Dívida Técnica
+[#20](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/20) | - | João Victor , Caio beleza , Lucas Lopes | Dívida Técnica
 
 
 ## Presença na sprint planning
