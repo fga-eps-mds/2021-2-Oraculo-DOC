@@ -22,6 +22,7 @@ nav:
     - Gerenciamento de Custos:
       - Planejamento de custos: "custos.md"
     - Cronograma: 'diagrama_gantt.md'
+    - Identidade Visual: 'identidadevisual.md'
   - Sprints:
       - Sprint 1: "sprint1.md"
       - Sprint 3: "sprint3.md"
