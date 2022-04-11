@@ -8,9 +8,8 @@ Descrever o que foi feito na branch e qual história foi resolvida.
 
 ## Critérios de Aceitação
 
-[] - X
-
-[] - Y
+- [ ] X
+- [ ] Y
 
 ## Nome do Revisor
 
