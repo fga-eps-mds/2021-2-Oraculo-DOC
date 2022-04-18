@@ -1,3 +1,5 @@
+# Histórico de Versão
+
 | Versão | Data       | Modificação                    | Motivo | Autor(es) |
 | ------ | ---------- | ------------------------------ | :----: | ----- |
 | 1.0    | 16/03/2022 | Criação do documento  | - | João Victor |
