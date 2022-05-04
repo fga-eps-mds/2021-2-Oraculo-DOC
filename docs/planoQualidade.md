@@ -24,7 +24,7 @@ Usabilidade do software | Melhoria | Facilidade de uso | Usuário final | Orácu
 
 Foco da qualidade | Fatores de Variação | Hipóteses de Baseline  | Variações nas hipóteses |
 :--------- | :------: | -------:| -------: |
-1 - Número de cliques para executar uma tarefa <br> 2 - Satisfação do usuário <br> 3 - Padronização na execução de tarefas <br> | 1 - O caminho a ser percorrido até chegar  na  funcionalidade  afeta o usuário <br> 2 - A satisfação do usuário melhora conforme ele aprende a usar <br> 3 - O conhecimento do usuário em outras ferramentas similares <br> | 1 - Média de 3 cliques <br> 2 - Espera-se que funcionalidades semelhates tenham o fluxo parecido <br> | 1 - A complexidade de uma funcionalidade pode fazer com que ela seja quebrada em várias etapas <br> 2 - O interesse do usuário pela aplicação <br>  |
+1 - Teste de aceitação por parte do usuáirio <br> 2 - Satisfação do usuário <br> 3 - Padronização na execução de tarefas <br> | 1 - O caminho a ser percorrido até chegar  na  funcionalidade  afeta o usuário <br> 2 - A satisfação do usuário melhora conforme ele aprende a usar <br> 3 - O conhecimento do usuário em outras ferramentas similares <br> | 1 - Formulário respondido de forma assincrona pelo usuário <br> 2 - Espera-se que funcionalidades semelhates tenham o fluxo parecido <br> | 1 - A complexidade de uma funcionalidade pode fazer com que ela seja quebrada em várias etapas <br> 2 - O interesse do usuário pela aplicação <br>  |
 
 ### Objetivo 02 - Código  Fonte Manutenível
 
@@ -62,24 +62,15 @@ Foco da qualidade | Fatores de Variação | Hipóteses de Baseline  | Variaçõe
 ## Métricas de medição
 
 
-<p> <b> Número de cliques <b> </p>
-
-| Objetivo da Medição | Obter o menor número  de cliques necessários para executar uma funcionalidade no sistema.
-:--------- | :------: |
-| Método | 	A partir da página na qual obtem-se acesso a funcionalidade contar todos os cliques necessários para executar a funcionalidade até seu ciclo final |
-|Escala de medição | Racional |
-| Forma de coleta | Procedimento: Acessar a página onde se tem acesso a funcionalidade e então executar a funcionalidade contando o número de cliques necessários para concluí-la. Caso hajam vários caminhos que a funcionalidade pode seguir, deve-se testar cada um desses caminhos e realizar uma média aritimética simples para obter o valor final.  |
-| Análise | 1 a 2 cliques: Nível aceitável, mas verificar se não faltam informações/passos pertinentes ao usuário. <br> 3 a 4 cliques: Nível aceitável <br> 5 a 7 cliques: Nível preocupante <br> 8 ou mais cliques: Nível alarmante. Reavaliar  <br>
-
 
 
 <p> <b> Nível de Satisfação do Usuário <b> </p>
 
 | Objetivo da Medição | Identificar o quão confortável o usuário se sente para usar  no sistema.
 :--------- | :------: |
-| Método | 	Em uma escla de 0 a 10 o usuário deve relatar o quão a vontade ele se sente ao usar no sistema. |
+| Método | 	Em um formulário disponibilizado pelos clientes, devem responder o quão a vontade ele se sente ao usar no sistema. |
 |Escala de medição | Numérica |
-| Forma de coleta | Selecionar dois prováveis usuários do sistema, pedir que usem o aplicativo, testando as novas funcionalidades implementadas e por fim, pedir para eles avaliarem em uma escala de 0 a 10 o quão intuitivo e prático foi mecher na aplicação. |
+| Forma de coleta | o sistema, pedir que usem o aplicativo, testando as novas funcionalidades implementadas e por fim, pedir para eles avaliarem em uma escala de 0 a 10 e questões qualitativas o quão intuitivo e prático foi mecher na aplicação. |
 | Análise | 0 a 2: Ruim. Deve-se reavaliar  a lógica de interação <br> 3 a 5: Razoável. Porém,  promover melhoras na lógica de interação. <br> 6 a 8 Satisfatório <br> 0 a 10 Excelente  <br>
 
 <p> <b> Duplicidade de Código <b> </p>
