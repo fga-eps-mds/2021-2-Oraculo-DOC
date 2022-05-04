@@ -54,7 +54,7 @@
  
 ### Índices de desempenho
  
-<p style="text-align:justify">&emsp;&emsp;É uma forma de visualizar o desempenho do projeto.
+<p style="text-align:justify">&emsp;&emsp;É uma forma de visualizar o desempenho do projeto. </p>
  
 #### Schedule Performance Index (SPI)
  
