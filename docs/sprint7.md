@@ -1,18 +1,18 @@
-# Sprint 05
+# Sprint 07
 
 | Versão | Data       | Modificação                    | Motivo | Autor(es) |
 | ------ | ---------- | ------------------------------ | :----: | ----- |
-| 1.0    | 28/03/2022 | Criação do documento  | - | Lucas Lopes |
+| 1.0    | 04/04/2022 | Criação do documento  | - | Lucas Lopes |
 
 
 # Informações básicas sobre a sprint
 
 
-| Sprint   | 5
+| Sprint   | 7
 --------- | ------
-Início | 03/04/2022
-Término | 10/04/2022
-Duração | 1 semana
+Início | 17/04/2022
+Término | 30/04/2022
+Duração | 1.6 semanas
 Pontuação total | 26
 Pontuação concluída | -
 
@@ -22,12 +22,10 @@ Pontuação concluída | -
 
 Issue |  Pontos | Responsáveis | Status |
 :--------- | :------: |  -------: | -------:
-[#62](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/62)| - | Arthur e Gabriel | Concluído |
-[#60](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/60)| 5 | Daniel e Matheus | Em andamento |
-[#32](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/32) | 8 | André, Pedro e Cícero | Em andamento
-[#31](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/31) | 13 | André, Pedro e Cícero | Em andamento
-[#64](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/64) | - | Lucas, João, Caio | Em andamento
-[#65](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/64) | - | Lucas, João, Caio | Em andamento
+[#71](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/71) | 8 | André | Concluído |
+[#72](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/72) | 2 | André e Daniel | Concluído |
+[#38](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/38) | 8 | Cícero e Gabriel |
+
 
 
 ## Presença na sprint planning
@@ -50,8 +48,8 @@ Alves | Ausente
 
 | Descrição   | Pontos
 --------- | ------
-Total de Pontos Planejados | -
-Total de Pontos Planejados e Concluídos	 | -
+Total de Pontos Planejados | 18
+Total de Pontos Planejados e Concluídos	 | 18
 Total de Pontos Adicionados | -
 Dívida para a próxima Sprint | -
 
@@ -61,16 +59,16 @@ Dívida para a próxima Sprint | -
 
 | Membro   | Presença
 --------- | ------
-Lucas Lopes | -
-Caio  | -
-João | -
+Lucas Lopes | Ausente
+Caio  | Presente
+João | Presente
 Luís Bruno | Ausente
-André | -
-Cicéro | - 
-Pedro | - 
-Daniel | - 
-Gabriel | - 
-Alves | - 
+André | Presente
+Cicéro | Presente 
+Pedro | Presente 
+Daniel | Presente 
+Gabriel | Presente 
+Alves | Presente 
 
 
 # Sprint Retrospective

@@ -1,17 +1,17 @@
-# Sprint 05
+# Sprint 06
 
 | Versão | Data       | Modificação                    | Motivo | Autor(es) |
 | ------ | ---------- | ------------------------------ | :----: | ----- |
-| 1.0    | 28/03/2022 | Criação do documento  | - | Lucas Lopes |
+| 1.0    | 04/04/2022 | Criação do documento  | - | Lucas Lopes |
 
 
 # Informações básicas sobre a sprint
 
 
-| Sprint   | 5
+| Sprint   | 6
 --------- | ------
-Início | 03/04/2022
-Término | 10/04/2022
+Início | 10/04/2022
+Término | 17/04/2022
 Duração | 1 semana
 Pontuação total | 26
 Pontuação concluída | -
@@ -22,12 +22,8 @@ Pontuação concluída | -
 
 Issue |  Pontos | Responsáveis | Status |
 :--------- | :------: |  -------: | -------:
-[#62](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/62)| - | Arthur e Gabriel | Concluído |
-[#60](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/60)| 5 | Daniel e Matheus | Em andamento |
-[#32](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/32) | 8 | André, Pedro e Cícero | Em andamento
-[#31](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/31) | 13 | André, Pedro e Cícero | Em andamento
-[#64](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/64) | - | Lucas, João, Caio | Em andamento
-[#65](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/64) | - | Lucas, João, Caio | Em andamento
+[#67](https://github.com/fga-eps-mds/2021-2-Oraculo-Doc/issues/67) | 8 | Cicero e Gabriel | Concluído |
+
 
 
 ## Presença na sprint planning
@@ -50,8 +46,8 @@ Alves | Ausente
 
 | Descrição   | Pontos
 --------- | ------
-Total de Pontos Planejados | -
-Total de Pontos Planejados e Concluídos	 | -
+Total de Pontos Planejados | 8
+Total de Pontos Planejados e Concluídos	 | 8
 Total de Pontos Adicionados | -
 Dívida para a próxima Sprint | -
 
@@ -61,20 +57,28 @@ Dívida para a próxima Sprint | -
 
 | Membro   | Presença
 --------- | ------
-Lucas Lopes | -
-Caio  | -
-João | -
+Lucas Lopes | Ausente
+Caio  | Presente
+João | Presente
 Luís Bruno | Ausente
-André | -
-Cicéro | - 
-Pedro | - 
-Daniel | - 
-Gabriel | - 
-Alves | - 
+André | Presente
+Cicéro | Presente 
+Pedro | Presente 
+Daniel | Presente 
+Gabriel | Presente 
+Alves | Presente 
 
 
 # Sprint Retrospective
 
+<iframe src='https://app.mural.co/t/unbfgaepsmds202111846/m/unbfgaepsmds202111846/1650323395332/1f6b48625ef047aab09b02237dc49da0e53783d6?sender=u23696742f94018e30dd85376'
+        width='100%'
+        height='480px'
+        style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef'
+        sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
+</iframe>
+
+[Link](https://app.mural.co/t/unbfgaepsmds202111846/m/unbfgaepsmds202111846/1650323395332/1f6b48625ef047aab09b02237dc49da0e53783d6?sender=u23696742f94018e30dd85376) Para a sprint retrospective
 
 
 # Métricas

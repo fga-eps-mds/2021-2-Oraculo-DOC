@@ -1,6 +1,8 @@
 | Versão | Data       | Modificação                    | Motivo | Autor(es) |
 | ------ | ---------- | ------------------------------ | :----: | ----- |
 | 1.0    | 13/03/2022 | Criação do documento  | - | João Victor, Lucas Lopes, Caio César |
+| 2.0    | 04/04/2022 | Criação do documento  | Atualização métrica de Nível de Satisfação do Usuário  | João Victor, Lucas Lopes, Caio César |
+
 
 
 
