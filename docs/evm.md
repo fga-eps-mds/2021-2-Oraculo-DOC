@@ -77,7 +77,9 @@
 
 ## Planilha de Custos EVM
 
+<iframe src="https://docs.google.com/spreadsheets/d/1RZnGeMPWXbpQS9MpYgC9isZgm7ymlHrQ/edit#gid=916636493" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
 
+[https://docs.google.com/spreadsheets/d/1RZnGeMPWXbpQS9MpYgC9isZgm7ymlHrQ/edit#gid=916636493](Link da planilha)
 
 ## Referências
 
