@@ -62,7 +62,7 @@
  
 `SPI = EV x PV`
  
-**SPI maior que 1** o projeto está adiantado 
+**SPI maior que 1** o projeto está adiantado <br>
 **SPI for menor que 1** o projeto está atrasado 
  
 #### Cost Performance Index (CPI)
@@ -71,7 +71,7 @@
  
 `CPI = EV x AC`
 
-**CPI maior que 1** o projeto está abaixo do orçamento
+**CPI maior que 1** o projeto está abaixo do orçamento <br>
 **CPI menor que 1** o projeto está acima do orçamento
  
 
