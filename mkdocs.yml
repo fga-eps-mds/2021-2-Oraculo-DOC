@@ -20,6 +20,7 @@ nav:
     - Gerenciamento de Qualidade:
       - Planejamento de Qualidade: "planoQualidade.md"
     - Gerenciamento de Custos:
+      - EVM: "evm.md"
       - Planejamento de custos: "custos.md"
     - Cronograma: 'diagrama_gantt.md'
     - Identidade Visual: 'identidadadevisual.md'
